@@ -23,6 +23,9 @@ This section lists each exercise along with the programming languages in which s
 - **2458. Height of Binary Tree After Subtree Removal Queries**
    - [Python](python3/2458.py)
 
+- **2501. Longest Square Streak in an Array** 
+    - [Python](python3/2501.py)
+
 - **2583. Kth Largest Sum in a Binary Tree**
    - [Python](python3/2583.py)
 
