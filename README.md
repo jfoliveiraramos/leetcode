@@ -20,8 +20,14 @@ This section lists each exercise along with the programming languages in which s
 - **1277. Count Square Submatrices with All Ones**
    - [Python](python3/1277.py)
 
+- **1671. Minimum Number of Removals to Make Mountain Array**
+    - [Python](python3/1671.py)
+
 - **2458. Height of Binary Tree After Subtree Removal Queries**
    - [Python](python3/2458.py)
+
+- **2463. Minimum Total Distance Travelled**
+    - [Python](python3/2463.py)
 
 - **2501. Longest Square Streak in an Array** 
     - [Python](python3/2501.py)

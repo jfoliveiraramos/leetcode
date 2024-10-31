@@ -35,4 +35,3 @@ class Solution:
         
         return size - maxSize + 1 
 
-print(Solution().minimumMountainRemovals([9,8,1,7,6,5,4,3,2,1]))
