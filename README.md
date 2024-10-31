@@ -40,3 +40,4 @@ This section lists each exercise along with the programming languages in which s
 
 - **2684. Maximum Number of Moves in a Grid**
     - [Python](python3/2684.py)
+    
