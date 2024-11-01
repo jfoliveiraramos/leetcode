@@ -23,6 +23,10 @@ This section lists each exercise along with the programming languages in which s
 - **1671. Minimum Number of Removals to Make Mountain Array**
     - [Python](python3/1671.py)
 
+- **1957. Delete Characters to Make Fancy String**
+    - [Python](python3/1957.py)
+    - [Rust](rust/1957.rs)
+
 - **2458. Height of Binary Tree After Subtree Removal Queries**
    - [Python](python3/2458.py)
 
