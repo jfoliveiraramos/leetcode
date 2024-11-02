@@ -33,6 +33,10 @@ This section lists each exercise along with the programming languages in which s
 - **2463. Minimum Total Distance Travelled**
     - [Python](python3/2463.py)
 
+- **2490. Circular Sentence**
+    - [Python](python3/2490.py)
+    - [Rust](rust/2490.rs)
+
 - **2501. Longest Square Streak in an Array** 
     - [Python](python3/2501.py)
 
