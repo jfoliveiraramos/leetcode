@@ -9,6 +9,9 @@ This section lists each exercise along with the programming languages in which s
 - **26. Remove Duplicates from Sorted Array**
    - [Rust](rust/26.rs)
 
+- **796. Rotate String**
+    - [Python](python3/796.py)
+
 - **951. Flip Equivalent Binary Trees**
    - [Python](python3/951.py)
    - [Rust](rust/951.rs)
