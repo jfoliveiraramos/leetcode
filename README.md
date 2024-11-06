@@ -55,6 +55,8 @@ This section lists each exercise along with the programming languages in which s
 - **2914. Minimum Number of Changes to Make Binary String Beautiful**
     - [Python](python3/2914.py)
     - [Rust](rust/2914.rs)
+- **3011. Find if Array Can Be Sorted**
+    - [Python](python3/3011.py)
     
 - **3163. String Compression III**
     - [Python](python3/3163.py)
