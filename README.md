@@ -52,6 +52,9 @@ This section lists each exercise along with the programming languages in which s
 - **2684. Maximum Number of Moves in a Grid**
     - [Python](python3/2684.py)
 
+- **2275. Largest Combination With Bitwise AND Greater Than Zero**
+    - [Python](python3/2275.py)
+
 - **2914. Minimum Number of Changes to Make Binary String Beautiful**
     - [Python](python3/2914.py)
     - [Rust](rust/2914.rs)
