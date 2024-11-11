@@ -49,8 +49,8 @@ This section lists each exercise along with the programming languages in which s
 - **2583. Kth Largest Sum in a Binary Tree**
    - [Python](python3/2583.py)
 
-- **2641. Cousins in Binary Tree II**
-   - [Python](python3/2641.py)
+- **2601. Prime Subtraction Operation**
+   - [Python](python3/2601.py)
 
 - **2684. Maximum Number of Moves in a Grid**
     - [Python](python3/2684.py)
